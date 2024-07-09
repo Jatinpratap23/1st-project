@@ -1,0 +1,109 @@
+body{
+    margin: 0%;
+}
+.header{
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+}
+.search-resize{
+    border-radius: 21px;
+    padding: 10px 30px 10px 30px;
+}
+.color-A{
+    color: sienna;
+}
+.ful-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-image: url('/images/aprilia-motogp-gallery8\ \(1\).webp');
+    margin-top:25px ;
+    
+}
+.positionicons{
+    position: relative;
+    top:3px;
+    left:29px;
+}
+.heading-top{
+    display: flex;
+    justify-content: center;
+}
+.Z{
+    display: flex;
+    font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+    justify-content: center;
+}
+.rightimage-A {
+    position: relative;
+background-color: black;
+width: 100%;
+margin-bottom: 15px;
+}
+.opacity{
+    height: 400px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+opacity: 0.8;
+display: flex;
+}
+.Gen{
+    color: white;
+    position:absolute;
+    top: 0;
+    padding-left: 548px;
+    padding-top: 120px;
+    width: 50%;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0%
+}
+.mid-logos{
+    border-bottom: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+}
+.M-1{
+    padding: 20px 50px 10px 50px;
+}
+.M-2{
+    padding: 20px 50px 10px 50px;
+}
+.M-3{
+    padding: 20px 50px 10px 50px;
+}
+.opacity-2{
+    height: 400px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+opacity: 0.8;
+display: flex;
+
+}
+.leftimage-B{
+    position: relative;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+    }
+.history{
+    color: aliceblue;
+    position: absolute;
+    top: 0;
+    width: 40%;
+    padding-right:551px;
+    padding-top: 130px;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0%
+}
